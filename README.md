@@ -1,5 +1,6 @@
 # OpenShift Developer Sandbox
 You can access from here.
+
 https://movie-app-openshift-git-shin-noda-dev.apps.rm3.7wse.p1.openshiftapps.com/movie-app
 
 ## React + Vite
